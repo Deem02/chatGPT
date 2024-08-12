@@ -9,6 +9,7 @@ Welcome to the Conversational AI Chat App, a cutting-edge web application that a
 - [Technical Details](#technical-details)
 - [Security and Privacy](#security-and-privacy)
 - [Future Enhancements](#future-enhancements)
+- [Demo](#demo)
 
 
 ## Features 🌟
@@ -64,6 +65,10 @@ Some potential improvements and future enhancements for the Conversational AI Ch
 - **File Sharing and Multimedia Support**: Adding the ability to share files, images, and other media types during the conversation.
 - **Real-time Collaboration**: Integrating real-time communication protocols, such as WebSockets, to enable true real-time chat functionality.
 - **Offline Capabilities**: Exploring ways to provide some offline functionality, allowing users to continue using the app even without a constant internet connection.
+
+
+## Demo
+https://github.com/user-attachments/assets/36738cb2-8dfe-4e37-9de9-a2c033ca5c3a
 
 
 
